@@ -21,7 +21,6 @@ tt
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -129,7 +128,7 @@ To run tests, run the following command:
   npx stylelint "***/*.{css,scss}"
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p> align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -151,8 +150,8 @@ To run tests, run the following command:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [Javascript functionality] **[new_feature_1]**
-- [More responsive design features] **[new_feature_2]**
+- Javascript functionality
+- More responsive design features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -200,8 +199,8 @@ I am grateful to everyone whose knowledge, resources,band contributions inspired
 
 - **[How do I get this project?]**
 
-  - [cd Hello_Mindbyte
-  git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
+  - [cd Hello_Mindbyte]
+   [git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
