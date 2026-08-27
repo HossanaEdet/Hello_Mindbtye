@@ -60,13 +60,12 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello_Mindbyte <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
-
-## 🛠 Built With <a name="built-with"></a>
+Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic stucture of a webpage and how CSS is used to style it. This project includes HTML and CSS, linters configuration, a GitHub Actions worflow for linting, test.md, and a .gitignore file for managing files that should not be traced by Git.
+## 🛠 Built With HTML and CSS <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -99,10 +98,9 @@ For more information on the importance of a professional README for your reposit
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
+- HTML webpage structure
+- CSS styling
+- HTML/CSS linting
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
