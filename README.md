@@ -1,32 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/Mindbyte Academyinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
 
 <div align="center">
 
@@ -34,8 +7,7 @@ For more information on the importance of a professional README for your reposit
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
+tt
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -58,13 +30,13 @@ For more information on the importance of a professional README for your reposit
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello_Mindbyte <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
 Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic stucture of a webpage and how CSS is used to style it. This project includes HTML and CSS, linters configuration, a GitHub Actions worflow for linting, test.md, and a .gitignore file for managing files that should not be traced by Git.
+
 ## 🛠 Built With HTML and CSS <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -74,25 +46,10 @@ Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">HTML/CSS</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -101,19 +58,18 @@ Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic
 - HTML webpage structure
 - CSS styling
 - HTML/CSS linting
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](http://127.0.0.1:5500/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -125,162 +81,137 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Git installed
+- A web browser
+- VS Code or any other code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+```bash
+  cd Hello_Mindbyte
+  git clone git@github.com:HossanaEdet/Hello_Mindbyte.git
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+
 ```
---->
 
-### Install
+  ## Install
 
 Install this project with:
 
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
+```bash
+  cd Hello_Mindbyte
+  git --version
+  npm install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
 
-```sh
-  rails server
+```bash
+  cd Hello_Mindbyte
+  git clone git@github.com:HossanaEdet/Hello_Mindbyte.git
+  npm install
+  code .
+
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
 
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+```bash
+  npx hint .
+  npx stylelint "***/*.{css,scss}"
 
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+
+
+```
 
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/HossanaEdet)
+- Twitter: [@twitterhandle](https://x.com/Hossypraise001)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [Javascript functionality] **[new_feature_1]**
+- [More responsive design features] **[new_feature_2]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/HossanaEdet/Hello_Mindbtye/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you find this project useful or interesting, please consider supporting by starring the repository on GitHub. Your support and feedback are greatly appreciated and encourage continued learning, improvement, and development.
+
+You can also share the project with others who may find it helpful. Thank you for your support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my boss - Mr Oluwatoyin, for the guidance, encouragement, corrections, and valuable knowledge shared throughout the development of this project.Your support has contributed greatly to my growth and understanding.
+
+I also want appreciate my brother - Hojo, for his support, encouragement, and willingness to help whenever I needed it.
+
+I am grateful to everyone whose knowledge, resources,band contributions inspired the codebase and helped make this project possible. Thank you all for being part of my leanrning and development journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[What is this project about?]**
 
-  - [Answer_1]
+  - [This is a frontend web development project built with HTML and CSS . It demonstrates basic webpage structure, styling, and development practices.]
 
-- **[Question_2]**
+- **[How do I get this project?]**
 
-  - [Answer_2]
+  - [cd Hello_Mindbyte
+  git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
