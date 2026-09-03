@@ -3,11 +3,9 @@
 
 <div align="center">
 
-  <h3><b>Mindbyte Academy README Template</b></h3>
-
 </div>
 
-tt
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -32,7 +30,6 @@ tt
 
 # 📖 Hello_Mindbyte <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic stucture of a webpage and how CSS is used to style it. This project includes HTML and CSS, linters configuration, a GitHub Actions worflow for linting, test.md, and a .gitignore file for managing files that should not be traced by Git.
 
@@ -40,7 +37,6 @@ Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -52,27 +48,24 @@ Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - HTML webpage structure
 - CSS styling
 - HTML/CSS linting
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](http://127.0.0.1:5500/index.html)
+- [Live Demo Link] Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -127,8 +120,7 @@ To run tests, run the following command:
   npx hint .
   npx stylelint "***/*.{css,scss}"
 
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ```
 
@@ -137,19 +129,17 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/HossanaEdet)
-- Twitter: [@twitterhandle](https://x.com/Hossypraise001)
+- GitHub: [Explore my projects](https://github.com/HossanaEdet)
+- Twitter: [Connect with me on Twitter/X](https://x.com/Hossypraise001)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - Javascript functionality
 - More responsive design features
@@ -168,7 +158,6 @@ Feel free to check the [issues page](https://github.com/HossanaEdet/Hello_Mindbt
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you find this project useful or interesting, please consider supporting by starring the repository on GitHub. Your support and feedback are greatly appreciated and encourage continued learning, improvement, and development.
 
@@ -179,29 +168,27 @@ You can also share the project with others who may find it helpful. Thank you fo
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank my boss - Mr Oluwatoyin, for the guidance, encouragement, corrections, and valuable knowledge shared throughout the development of this project.Your support has contributed greatly to my growth and understanding.
 
 I also want appreciate my brother - Hojo, for his support, encouragement, and willingness to help whenever I needed it.
 
-I am grateful to everyone whose knowledge, resources,band contributions inspired the codebase and helped make this project possible. Thank you all for being part of my leanrning and development journey.
+I am grateful to everyone whose knowledge, resources,band contributions inspired the codebase and helped make this project possible. Thank you all for being part of my learning and development journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[What is this project about?]**
+- **What is this project about?**
 
-  - [This is a frontend web development project built with HTML and CSS . It demonstrates basic webpage structure, styling, and development practices.]
+  - This is a frontend web development project built with HTML and CSS . It demonstrates basic webpage structure, styling, and development practices.
 
-- **[How do I get this project?]**
+- **How do I get this project?**
 
   - [cd Hello_Mindbyte]
-   [git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
+  - [git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
