@@ -1,10 +1,6 @@
 <a name="readme-top"></a>
 
 
-<div align="center">
-
-</div>
-
 
 # 📗 Table of Contents
 
@@ -59,7 +55,7 @@ Hello_Mindbyte is a simple HTML and CSS project created to demonstrate the basic
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link] Coming soon.
+- Coming soon.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,7 +128,7 @@ To run tests, run the following command:
 
 👤 **Author**
 
-- GitHub: [Explore my projects](https://github.com/HossanaEdet)
+- GitHub: [Explore my projects on GitHub](https://github.com/HossanaEdet)
 - Twitter: [Connect with me on Twitter/X](https://x.com/Hossypraise001)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -187,8 +183,8 @@ I am grateful to everyone whose knowledge, resources,band contributions inspired
 
 - **How do I get this project?**
 
-  - [cd Hello_Mindbyte]
-  - [git clone git@github.com:HossanaEdet/Hello_Mindbyte.git]
+  - cd Hello_Mindbyte
+  - git clone git@github.com:HossanaEdet/Hello_Mindbyte.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
